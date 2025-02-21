@@ -64,7 +64,7 @@ while True:
                         print(f"{index}.{tranction['type']} - amount: {tranction['amount']} - balance: {tranction['balance']}")        
 
             elif choice == "4":
-                print("BYE!")
+                print(" GOOD BYE!")
                 break
             else:
                 print("Invalid choice. Please try again.")
